@@ -1,0 +1,19 @@
+---
+galaxy_info:
+  author: tiago-loureiro
+  description: Role to verify correct NTP installations
+  company: Wire
+  license: AGPL
+  min_ansible_version: 2.2
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - 16.04
+        - 18.04
+
+  galaxy_tags:
+    - ntp
+
+
+dependencies: []

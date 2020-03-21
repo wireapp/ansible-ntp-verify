@@ -24,7 +24,7 @@ NTP is often misconfigured (or difficult to verify) on many hosts where it runs.
 
 ## Ansible Requirements
 
-- ansible >= 2.4 (>= 2.7.9 recommended)
+- ansible >= 2.2 (>= 2.7.9 recommended)
 
 ## Role Variables
 
@@ -63,7 +63,7 @@ AGPL. See [LICENSE](LICENSE)
 
 ## Development setup
 
-ansible 2.7 is the only dependency to run this role
+Ansible is the only dependency required to run this role.
 
 ## TODO
 
