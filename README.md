@@ -56,6 +56,7 @@ Assuming an inventory with 3 nodes where you wish to run this on:
 host01 ansible_host=<some IP>
 host02 ansible_host=<some IP>
 host03 ansible_host=<some IP>
+```
 
 ## License
 
